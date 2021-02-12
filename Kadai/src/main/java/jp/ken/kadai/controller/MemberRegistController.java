@@ -1,6 +1,5 @@
 package jp.ken.kadai.controller;
 
-import jp.ken.kadai.model.EmployeesModel;
 import jp.ken.kadai.model.ErrorCheckGroup1;
 import jp.ken.kadai.dao.MembersDAO;
 import jp.ken.kadai.entity.Members;

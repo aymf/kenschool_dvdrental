@@ -29,7 +29,7 @@ td {
 	</div>
 	<hr />
 	<div>
-		<a href="menu">MENUへ</a>
+		<a href="customerMenu">MENUへ</a>
 	</div>
 	<hr />
 	<div>
@@ -37,13 +37,12 @@ td {
 		<c:if test="${vagueGoodsList.size() > 0}" >
 		<hr />
 		<table border="1">
-			<tr><th>商品ID</th><th>商品名</th><th>商品名(全角カナ)</th><th>商品カテゴリID</th></tr>
+			<tr><th>商品名</th><th>商品名(全角カナ)</th><th>商品カテゴリ</th></tr>
 			<c:forEach var="goods" items="${vagueGoodsList}">
 			<tr>
-				<td><c:out value="${goods.goods_id}" /></td>
 				<td><c:out value="${goods.goods_name}" /></td>
 				<td><c:out value="${goods.goods_kana}" /></td>
-				<td><c:out value="${goods.goods_category_id}" /></td>
+				<td><c:out value="${(goods.categories).goods_category_name}" /></td>
 			</tr>
 			</c:forEach>
 			</table>

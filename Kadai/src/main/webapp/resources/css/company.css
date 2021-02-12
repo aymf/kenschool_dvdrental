@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+.kaisha {
+width: 65%;
+}
+
+.haikei img{
+	width: auto;
+	height: 200px;
+}
+
+.haikei h2{
+	
+	position: absolute;
+  	top: 25%;
+  	left: 10%;
+  	-ms-transform: translate(-50%,-50%);
+  	-webkit-transform: translate(-50%,-50%);
+  	transform: translate(-50%,-50%);
+  	margin:0;
+  	padding:0;
+  	
+}
+
+.haikei h3 {
+	
+	position: absolute;
+  	top: 35%;
+  	left: 13%;
+  	-ms-transform: translate(-50%,-50%);
+  	-webkit-transform: translate(-50%,-50%);
+  	transform: translate(-50%,-50%);
+  	margin:0;
+  	padding:0;
+  	
+}
+
+.kaisha th,
+.kaisha td {
+border: 1px solid #ccc;
+padding: 20px;
+}
+
+.kaisha th {
+font-weight: bold;
+background-color: #dedede; 
+}
+
+@media screen and (max-width: 767px) {
+.kaisha,
+.kaisha tr {width:auto, height:auto;}
+.kaisha td {width:auto, height:auto;}
+.kaisha th {display:block;}
+.kaisha th {width:auto, height:auto;}
+}

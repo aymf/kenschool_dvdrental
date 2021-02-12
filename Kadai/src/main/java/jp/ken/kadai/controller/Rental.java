@@ -5,12 +5,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
-@RequestMapping("customerMenu")
-public class CustomerMenuController {
+@RequestMapping("rental")
+public class Rental {
 	
 	@RequestMapping(method=RequestMethod.GET)
-	public String menu() {
-		return "customerMenu";
+	public String rental() {
+		return "rental";
 	}
-	
+
 }

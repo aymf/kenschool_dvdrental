@@ -7,7 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Insert title here</title>
+<title>お客様用トップページ</title>
 
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -48,10 +48,10 @@ return false;
 
 
 <header>
-<h1 id="logo"><a href="index.html"><img src="<c:url value="/resources/images/logo.png" />" alt="SAMPLE COMPANY"></a></h1>
+<h1 id="logo"><a href="company"><img src="<c:url value="/resources/images/logo.png" />" alt="Music Life Agency"></a></h1>
 <nav id="menubar">
 <ul>
-<li><a href="allGoodsList">item</a></li>
+<li><a href="allGoodsList">Search</a></li>
 <li><a href="memberList">Account</a></li>
 <li><a href="#service">Service</a></li>
 <li><a href="#contact">Contact</a></li>
@@ -70,32 +70,28 @@ return false;
 
 <div class="list">
 <img src="<c:url value="/resources/images/sample1.jpg" />" alt="">
-<h4>ここの見出しのサイズは、cssフォルダのstyle.cssの「.list h4」で変更できます。</h4>
-<p>左の画像の幅もstyle.cssの「.list img」のwidthの数字で変更できます。</p>
+<h4>よくあるご質問</h4>
+<p><li><a href="question">お客様の声</a></li></p>
 </div>
 
 <div class="list">
 <img src="<c:url value="/resources/images/sample2.jpg" />" alt="">
-<h4>見出しを入れます。</h4>
-<p>説明を入れます。</p>
-</div>
-
-<div class="list">
-<img src="<c:url value="/resources/images/sample3.jpg" />" alt="">
-<h4>見出しを入れます。</h4>
-<p>説明を入れます。</p>
+<h4>レンタルプラン</h4>
+<p>
+お試しプラン：月額324円 (新規登録月限定)<br />
+Bronzeプラン：月額1,080円<br />
+Silverプラン：月額2,160円<br />
+Goldプラン    ：月額5,400円
+</p>
 </div>
 
 <div class="list">
 <img src="<c:url value="/resources/images/sample4.jpg" />" alt="">
-<h4>見出しを入れます。</h4>
-<p>説明を入れます。</p>
-</div>
-
-<div class="list">
-<img src="<c:url value="/resources/images/sample5.jpg" />" alt="">
-<h4>見出しを入れます。</h4>
-<p>説明を入れます。</p>
+<h4>ネット宅配レンタル</h4>
+<p>
+<li><a href="rental">CD、DVD、Blu-rayをネットで借りる</a></li><br />
+ご自宅までお届け 返却はポストでOK（送料無料）
+</p>
 </div>
 
 </section>
@@ -107,7 +103,7 @@ return false;
 <p class="c">お問い合わせは以下までお願い致します。</p>
 <p class="c"><span class="big1">092-713-5561</span><br>
 定休日：年中無休<br>
-営業時間AM10:00〜PM23:00</p>
+店舗営業時間：24時間</p>
 <p class="c"><img src="<c:url value="/resources/images/sample1.jpg" />" alt="" width="300"></p>
 
 </section>
@@ -120,7 +116,7 @@ return false;
 <!--/#container-->
 
 <footer>
-<small>Copyright&copy; <a href="index.html">SAMPLE COMPANY</a> All Rights Reserved.</small>
+<small>Copyright&copy; <a href="index.html">Music Life Agency</a> All Rights Reserved.</small>
 <span class="pr">《<a href="https://template-party.com/" target="_blank">Web Design:Template-Party</a>》</span>
 </footer>
 

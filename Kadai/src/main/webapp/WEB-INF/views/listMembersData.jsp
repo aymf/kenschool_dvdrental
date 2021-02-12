@@ -17,7 +17,7 @@
 <body>
 	<h1>会員登録</h1>
 	<hr />
-	<p><a href="menu">メニューへ戻る</a></p>
+	<p><a href="customerMenu">メニューへ戻る</a></p>
 	<hr />
 	<form:form modelAttribute="membersModel">
 		<table>

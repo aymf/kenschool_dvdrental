@@ -20,9 +20,6 @@
 				<value>jp.ken.kadai.entity.Employees</value>
 				<value>jp.ken.kadai.entity.Members</value>
 				<value>jp.ken.kadai.entity.Departments</value>
-				<value>jp.ken.kadai.entity.Goods</value>
-				<value>jp.ken.kadai.entity.Categories</value>
-				<value>jp.ken.kadai.entity.Stocks</value>
 			</list>
 		</property>
 		<property name="hibernateProperties">
@@ -39,15 +36,6 @@
 		<property name="sessionFactory" ref="hibernate4AnnotatedSessionFactory" />
 	</bean>
 	<bean id="departmentsDAO" class="jp.ken.kadai.dao.DepartmentsDAOImpl">
-		<property name="sessionFactory" ref="hibernate4AnnotatedSessionFactory" />
-	</bean>
-	<bean id="goodsDAO" class="jp.ken.kadai.dao.GoodsDAOImpl">
-		<property name="sessionFactory" ref="hibernate4AnnotatedSessionFactory" />
-	</bean>
-	<bean id="categoriesDAO" class="jp.ken.kadai.dao.CategoriesDAOImpl">
-		<property name="sessionFactory" ref="hibernate4AnnotatedSessionFactory" />
-	</bean>
-	<bean id="stocksDAO" class="jp.ken.kadai.dao.StocksDAOImpl">
 		<property name="sessionFactory" ref="hibernate4AnnotatedSessionFactory" />
 	</bean>
 </beans>

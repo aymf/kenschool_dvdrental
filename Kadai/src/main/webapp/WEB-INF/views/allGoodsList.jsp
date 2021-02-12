@@ -21,7 +21,9 @@
 		</form:form>
 	</div>
 	<hr />
-	<p><a href="menu">メニューへ戻る</a></p>
+	<p><a href="customerMenu">MENUへ戻る</a></p>
+	<p><a href="vagueGoodsList">あいまい検索画面へ</a></p>
+	<p><a href="stocksList">在庫数確認画面へ</a></p>
 	<hr />
 	<div>
 		<c:out value="${title}" />
