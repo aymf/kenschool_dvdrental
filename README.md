@@ -1,9 +1,9 @@
 # kenschool_dvdrental
 
-ログイン画面
+**ログイン画面**
 ![login](https://user-images.githubusercontent.com/78636195/107896652-38870c80-6f7a-11eb-8839-fd9f7eaae07a.png)
 
-従業員用メニュー画面
+*従業員用メニュー画面*
 ![menu](https://user-images.githubusercontent.com/78636195/107893384-3d45c380-6f6e-11eb-89ed-31682907071e.png)
 
 お客様用メニュー画面
