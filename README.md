@@ -1,6 +1,6 @@
 # kenschool_dvdrental
 
-# ログイン画面
+## ログイン画面
 ![login](https://user-images.githubusercontent.com/78636195/107896652-38870c80-6f7a-11eb-8839-fd9f7eaae07a.png)
 
 *従業員用メニュー画面*
