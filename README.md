@@ -36,7 +36,7 @@
 従業員情報変更画面
 ![empChange](https://user-images.githubusercontent.com/78636195/107893575-5438e580-6f6f-11eb-8346-f380fc219100.png)
 
-従業員検索画面
+従業員検索画面  
 ●1を入れ検索した場合
 ![empKensaku](https://user-images.githubusercontent.com/78636195/107894115-e510c080-6f71-11eb-95d5-b215cf9f0712.png)
 
