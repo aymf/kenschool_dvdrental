@@ -1,5 +1,8 @@
 # kenschool_dvdrental
 
+ログイン画面
+![login](https://user-images.githubusercontent.com/78636195/107896652-38870c80-6f7a-11eb-8839-fd9f7eaae07a.png)
+
 従業員用メニュー画面
 ![menu](https://user-images.githubusercontent.com/78636195/107893384-3d45c380-6f6e-11eb-89ed-31682907071e.png)
 
@@ -34,5 +37,8 @@
 ![empChange](https://user-images.githubusercontent.com/78636195/107893575-5438e580-6f6f-11eb-8346-f380fc219100.png)
 
 従業員検索画面
+●1を入れ検索した場合
 ![empKensaku](https://user-images.githubusercontent.com/78636195/107894115-e510c080-6f71-11eb-95d5-b215cf9f0712.png)
+
+●aを入れ検索した場合
 ![empKensaku2](https://user-images.githubusercontent.com/78636195/107894111-e4782a00-6f71-11eb-9f5a-c427cc5e833a.png)
