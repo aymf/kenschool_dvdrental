@@ -22,7 +22,10 @@
 
 商品あいまい検索画面
 
+![aimai](https://user-images.githubusercontent.com/78636195/107893630-97935400-6f6f-11eb-86b0-cc37af1cad69.png)
+
 会員登録画面
+![account](https://user-images.githubusercontent.com/78636195/107893628-96fabd80-6f6f-11eb-9b35-578340239a55.png)
 
 従業員リスト
 ![emp](https://user-images.githubusercontent.com/78636195/107893569-50a55e80-6f6f-11eb-9993-4aa77f52d4bd.png)
