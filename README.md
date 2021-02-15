@@ -11,6 +11,11 @@
 ![customerMenu](https://user-images.githubusercontent.com/78636195/107893438-8c8bf400-6f6e-11eb-855e-0956fc6aa84a.png)
 
 
+![service](https://user-images.githubusercontent.com/78636195/107893557-46836000-6f6f-11eb-9460-831ec310d6b4.png)
+
+
+![service2](https://user-images.githubusercontent.com/78636195/107893560-4b481400-6f6f-11eb-8188-377d0f516d30.png)
+
 
 商品検索画面
 ![kensaku](https://user-images.githubusercontent.com/78636195/107893453-ac231c80-6f6e-11eb-82fe-9e774a0ef2a7.png)
@@ -20,6 +25,9 @@
 会員登録画面
 
 従業員リスト
+![emp](https://user-images.githubusercontent.com/78636195/107893569-50a55e80-6f6f-11eb-9993-4aa77f52d4bd.png)
 
 従業員情報変更、削除画面
+![empChange](https://user-images.githubusercontent.com/78636195/107893575-5438e580-6f6f-11eb-8346-f380fc219100.png)
+
 
